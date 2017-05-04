@@ -48,6 +48,96 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="XML Fundamentals Theorie Materiaal\Adres.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="XML Fundamentals Theorie Materiaal\Attributen.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="XML Fundamentals Theorie Materiaal\EenWordDocument.docx" />
+    <None Include="XML Fundamentals Theorie Materiaal\Locatie.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="XML Fundamentals Theorie Materiaal\LuckyLuke.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="XML Fundamentals Theorie Materiaal\NaamVoornamenGeboorte.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="XML Fundamentals Theorie Materiaal\NaamVoornamenGeboorteAttributen.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="XML Fundamentals Theorie Materiaal\OlivierGerardAttributen" />
+    <None Include="XML Fundamentals Theorie Materiaal\Persoon.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="XML Fundamentals Theorie Materiaal\PersoonMetNamespace.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="XML Fundamentals Theorie Materiaal\Punt.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="XML Fundamentals Theorie Materiaal\Strips.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="XML Fundamentals Taken Materiaal\Bieren.xml" />
+    <Content Include="XML Fundamentals Taken Materiaal\CDVerzameling.xml" />
+    <Content Include="XML Fundamentals Taken Materiaal\ComputerTalen.xml" />
+    <Content Include="XML Fundamentals Taken Materiaal\Daltons.xml" />
+    <Content Include="XML Fundamentals Taken Materiaal\DeclarationEnCommentaar.xml" />
+    <Content Include="XML Fundamentals Taken Materiaal\GesprokenTalen.xml" />
+    <Content Include="XML Fundamentals Taken Materiaal\QuatreQuarts.xml" />
+    <Content Include="XML Fundamentals Taken Materiaal\Talen.xml" />
+    <Content Include="XML Fundamentals Theorie Materiaal\Accounts.xml" />
+    <Content Include="XML Fundamentals Theorie Materiaal\AttributenDubbeleQuotes.xml" />
+    <Content Include="XML Fundamentals Theorie Materiaal\AttributenEnkeleQuotes.xml" />
+    <Content Include="XML Fundamentals Theorie Materiaal\BankAccounts.xml" />
+    <Content Include="XML Fundamentals Theorie Materiaal\België.xml" />
+    <Content Include="XML Fundamentals Theorie Materiaal\BelgiëAttributen1.xml" />
+    <Content Include="XML Fundamentals Theorie Materiaal\BelgiëAttributen2.xml" />
+    <Content Include="XML Fundamentals Theorie Materiaal\BelgiëBrussel.xml" />
+    <Content Include="XML Fundamentals Theorie Materiaal\BelgiëNederland.xml" />
+    <Content Include="XML Fundamentals Theorie Materiaal\BelgiëNederlandElementen.xml" />
+    <Content Include="XML Fundamentals Theorie Materiaal\BelgiëNederlandLuxemburg.xml" />
+    <Content Include="XML Fundamentals Theorie Materiaal\Benelux.xml" />
+    <Content Include="XML Fundamentals Theorie Materiaal\BeneluxGemengd.xml" />
+    <Content Include="XML Fundamentals Theorie Materiaal\BeneluxNietWellFormed.xml" />
+    <Content Include="XML Fundamentals Theorie Materiaal\BeneluxWellFormed.xml" />
+    <Content Include="XML Fundamentals Theorie Materiaal\Boek.xml" />
+    <Content Include="XML Fundamentals Theorie Materiaal\ComputerAccounts.xml" />
+    <Content Include="XML Fundamentals Theorie Materiaal\DrieStukkenData.xml" />
+    <Content Include="XML Fundamentals Theorie Materiaal\Film.xml" />
+    <Content Include="XML Fundamentals Theorie Materiaal\FrietBestelling.xml" />
+    <Content Include="XML Fundamentals Theorie Materiaal\Fuji.png" />
+    <Content Include="XML Fundamentals Theorie Materiaal\Fuji.svg" />
+    <Content Include="XML Fundamentals Theorie Materiaal\Hoofdbestuur.xml" />
+    <Content Include="XML Fundamentals Theorie Materiaal\Hoofdbestuur2.xml" />
+    <Content Include="XML Fundamentals Theorie Materiaal\JanWillemLincolnAttributenMetSchema.xml" />
+    <Content Include="XML Fundamentals Theorie Materiaal\JanWillemLincolnChildElementen.xml" />
+    <Content Include="XML Fundamentals Theorie Materiaal\JanWillemLincolnEenAttribuut.xml" />
+    <Content Include="XML Fundamentals Theorie Materiaal\JanWillemLincolnMeerdereAttributen.xml" />
+    <Content Include="XML Fundamentals Theorie Materiaal\JanWillemLincolnMetSchema.xml" />
+    <Content Include="XML Fundamentals Theorie Materiaal\JeamAttributen.xml" />
+    <Content Include="XML Fundamentals Theorie Materiaal\Jean.xml" />
+    <Content Include="XML Fundamentals Theorie Materiaal\JeanMetNamespace.xml" />
+    <Content Include="XML Fundamentals Theorie Materiaal\LuckyLuke.xml" />
+    <Content Include="XML Fundamentals Theorie Materiaal\NaamVanEenLand.xml" />
+    <Content Include="XML Fundamentals Theorie Materiaal\OlivierGerardChildElementen.xml" />
+    <Content Include="XML Fundamentals Theorie Materiaal\OlivierGerardEenAttribuut.xml" />
+    <Content Include="XML Fundamentals Theorie Materiaal\OlivierGerardMeerdereAttributen.xml" />
+    <Content Include="XML Fundamentals Theorie Materiaal\PacMan.xml" />
+    <Content Include="XML Fundamentals Theorie Materiaal\PacManMetMixedContent.xml" />
+    <Content Include="XML Fundamentals Theorie Materiaal\Popgroep.xml" />
+    <Content Include="XML Fundamentals Theorie Materiaal\Punt.xml" />
+    <Content Include="XML Fundamentals Theorie Materiaal\Rechthoeken.xml" />
+    <Content Include="XML Fundamentals Theorie Materiaal\Sporters.xml" />
+    <Content Include="XML Fundamentals Theorie Materiaal\Strips.xml" />
+    <Content Include="XML Fundamentals Theorie Materiaal\TalenInBelgië1.xml" />
+    <Content Include="XML Fundamentals Theorie Materiaal\TalenInBelgië2.xml" />
+    <Content Include="XML Fundamentals Theorie Materiaal\VergelijkingsoperatorenMetCData.xml" />
+    <Content Include="XML Fundamentals Theorie Materiaal\VergelijkingsoperatorenMetEntities.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
