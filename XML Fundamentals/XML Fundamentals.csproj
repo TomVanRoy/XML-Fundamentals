@@ -48,10 +48,22 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="XML Fundamentals Taken Materiaal\Bieren.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="XML Fundamentals Taken Materiaal\Muziekfestival.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="XML Fundamentals Taken Materiaal\Reisbestemming.xsd">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="XML Fundamentals Theorie Materiaal\Adres.xsd">
       <SubType>Designer</SubType>
     </None>
     <None Include="XML Fundamentals Theorie Materiaal\Attributen.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="XML Fundamentals Theorie Materiaal\Boek.xsd">
       <SubType>Designer</SubType>
     </None>
     <None Include="XML Fundamentals Theorie Materiaal\EenWordDocument.docx" />
@@ -68,6 +80,9 @@
       <SubType>Designer</SubType>
     </None>
     <None Include="XML Fundamentals Theorie Materiaal\OlivierGerardAttributen" />
+    <None Include="XML Fundamentals Theorie Materiaal\Artikel.xsd">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="XML Fundamentals Theorie Materiaal\Persoon.xsd">
       <SubType>Designer</SubType>
     </None>
@@ -84,12 +99,20 @@
   <ItemGroup>
     <Content Include="XML Fundamentals Taken Materiaal\Bieren.xml" />
     <Content Include="XML Fundamentals Taken Materiaal\CDVerzameling.xml" />
-    <Content Include="XML Fundamentals Taken Materiaal\ComputerTalen.xml" />
+    <Content Include="XML Fundamentals Taken Materiaal\ComputerTalen.xml">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="XML Fundamentals Taken Materiaal\Daltons.xml" />
     <Content Include="XML Fundamentals Taken Materiaal\DeclarationEnCommentaar.xml" />
-    <Content Include="XML Fundamentals Taken Materiaal\GesprokenTalen.xml" />
+    <Content Include="XML Fundamentals Taken Materiaal\GesprokenTalen.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XML Fundamentals Taken Materiaal\Muziekfestival.xml" />
     <Content Include="XML Fundamentals Taken Materiaal\QuatreQuarts.xml" />
-    <Content Include="XML Fundamentals Taken Materiaal\Talen.xml" />
+    <Content Include="XML Fundamentals Taken Materiaal\Reisbestemming.xml" />
+    <Content Include="XML Fundamentals Taken Materiaal\Talen.xml">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="XML Fundamentals Theorie Materiaal\Accounts.xml" />
     <Content Include="XML Fundamentals Theorie Materiaal\AttributenDubbeleQuotes.xml" />
     <Content Include="XML Fundamentals Theorie Materiaal\AttributenEnkeleQuotes.xml" />
@@ -98,7 +121,6 @@
     <Content Include="XML Fundamentals Theorie Materiaal\BelgiëAttributen1.xml" />
     <Content Include="XML Fundamentals Theorie Materiaal\BelgiëAttributen2.xml" />
     <Content Include="XML Fundamentals Theorie Materiaal\BelgiëBrussel.xml" />
-    <Content Include="XML Fundamentals Theorie Materiaal\BelgiëNederland.xml" />
     <Content Include="XML Fundamentals Theorie Materiaal\BelgiëNederlandElementen.xml" />
     <Content Include="XML Fundamentals Theorie Materiaal\BelgiëNederlandLuxemburg.xml" />
     <Content Include="XML Fundamentals Theorie Materiaal\Benelux.xml" />
@@ -119,7 +141,10 @@
     <Content Include="XML Fundamentals Theorie Materiaal\JanWillemLincolnEenAttribuut.xml" />
     <Content Include="XML Fundamentals Theorie Materiaal\JanWillemLincolnMeerdereAttributen.xml" />
     <Content Include="XML Fundamentals Theorie Materiaal\JanWillemLincolnMetSchema.xml" />
-    <Content Include="XML Fundamentals Theorie Materiaal\JeamAttributen.xml" />
+    <Content Include="XML Fundamentals Theorie Materiaal\JeanAttributen.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XML Fundamentals Theorie Materiaal\Koffiezetmachine.xml" />
     <Content Include="XML Fundamentals Theorie Materiaal\Jean.xml" />
     <Content Include="XML Fundamentals Theorie Materiaal\JeanMetNamespace.xml" />
     <Content Include="XML Fundamentals Theorie Materiaal\LuckyLuke.xml" />
@@ -138,6 +163,7 @@
     <Content Include="XML Fundamentals Theorie Materiaal\TalenInBelgië2.xml" />
     <Content Include="XML Fundamentals Theorie Materiaal\VergelijkingsoperatorenMetCData.xml" />
     <Content Include="XML Fundamentals Theorie Materiaal\VergelijkingsoperatorenMetEntities.xml" />
+    <Content Include="XML Fundamentals Theorie Materiaal\WereldLanden.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

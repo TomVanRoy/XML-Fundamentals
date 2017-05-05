@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema"
+        xmlns:vdab="http://www.vdab.be/reisbestemming"
+        targetNamespace="http://www.vdab.be/reisbestemming"
+        elementFormDefault="qualified">
+  <complexType name="Hotel">
+    <attribute name="naam" use="required" />
+    <attribute name="prijs" use="required" type="nonNegativeInteger" />
+  </complexType>
+  <complexType name="Excursie">
+    <attribute name="naam" use="required" />
+    <attribute name="prijs" use="required" type="nonNegativeInteger" />
+    <attribute name="aantaldagen" use="required" type="nonNegativeInteger" />
+  </complexType>
+  <complexType name="Hotels">
+    <sequence>
+      <element name="hotel" maxOccurs="unbounded" type="vdab:Hotel" />
+    </sequence>
+  </complexType>
+  <complexType name="Excursies">
+    <sequence>
+      <element name="excursie" minOccurs="0" maxOccurs="unbounded" type="vdab:Excursie" />
+    </sequence>
+  </complexType>
+  <complexType name="Reisbestemming">
+    <sequence>
+      <element name="naam" />
+      <element name="hotels" type="vdab:Hotels" />
+      <element name="excursies" type="vdab:Excursies" />
+    </sequence>
+  </complexType>
+  <element name="reisbestemming" type="vdab:Reisbestemming" />
+</schema>

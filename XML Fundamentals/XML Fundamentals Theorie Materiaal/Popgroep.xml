@@ -29,3 +29,11 @@
 		</taken>
 	</lid>
 </popgroep>
+<!--
+1. //lid/@voornaam
+2. //lid[@geslacht="V"]/@voornaam
+3. //lid[@voornaam="Benny" and @familienaam="Andersson"]//taak[last()]
+4. //lid[geboortejaar="1945"]/@voornaam
+5. //lid[taken/taak="zang"]/@voornaam
+6. //lid[count(taken/taak)>1]/@voornaam
+-->

@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<schema xmlns="http://www.w3.org/2001/XMLSchema" xmlns:vdab="http://www.vdab.be/strips"
-	targetNamespace="http://www.vdab.be/strips" elementFormDefault="qualified">
+<schema xmlns="http://www.w3.org/2001/XMLSchema"
+        xmlns:vdab="http://www.vdab.be/strips"
+        targetNamespace="http://www.vdab.be/strips"
+        elementFormDefault="qualified">
 	<simpleType name="ISBN">
 		<restriction base="integer">
 			<pattern value="978\d{10}" />

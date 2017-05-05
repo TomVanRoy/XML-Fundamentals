@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <schema xmlns="http://www.w3.org/2001/XMLSchema" xmlns:vdab="http://www.vdab.be/naamVoornamenGeboorte"
-	targetNamespace="http://www.vdab.be/naamVoornamenGeboorte"
-	elementFormDefault="qualified">
+        targetNamespace="http://www.vdab.be/naamVoornamenGeboorte"
+        elementFormDefault="qualified">
 	<complexType name="Voornamen">
 		<sequence>
 			<element name="voornaam" maxOccurs="unbounded" />

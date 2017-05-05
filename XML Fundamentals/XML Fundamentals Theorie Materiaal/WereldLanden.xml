@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<landen>
+  <land nummer="1" naam="Russia" oppervlakte="17098242" verhouding="11,4799530%"/>
+  <land nummer="2" naam="Canada" oppervlakte="9984670" verhouding="6,7038203%"/>
+  <land nummer="3" naam="United States" oppervlakte="9833516" verhouding="6,6023338%"/>
+  <land nummer="4" naam="PR China" oppervlakte="9598094" verhouding="6,4442688%"/>
+  <land nummer="5" naam="Brazil" oppervlakte="8514877" verhouding="5,7169847%"/>
+  <land nummer="6" naam="Australia" oppervlakte="7692024" verhouding="5,1645119%"/>
+  <land nummer="7" naam="India" oppervlakte="3287263" verhouding="2,2071055%"/>
+  <land nummer="8" naam="Argentina" oppervlakte="2780400" verhouding="1,8667920%"/>
+  <land nummer="9" naam="Kazakhstan" oppervlakte="2724900" verhouding="1,8295287%"/>
+  <land nummer="10" naam="Algeria" oppervlakte="2381741" verhouding="1,5991278%"/>
+  <land nummer="11" naam="Kinshasa" oppervlakte="2344858" verhouding="1,5743642%"/>
+  <land nummer="12" naam="Greenland" oppervlakte="2166086" verhouding="1,4543346%"/>
+  <land nummer="13" naam="Saudi Arabia" oppervlakte="2000000" verhouding="1,3428226%"/>
+  <land nummer="14" naam="Mexico" oppervlakte="1964375" verhouding="1,3189036%"/>
+  <land nummer="15" naam="Indonesia" oppervlakte="1904569" verhouding="1,2787492%"/>
+  <land nummer="16" naam="Sudan" oppervlakte="1886068" verhouding="1,2663274%"/>
+  <land nummer="17" naam="Libya" oppervlakte="1759540" verhouding="1,1813751%"/>
+  <land nummer="18" naam="Iran" oppervlakte="1648195" verhouding="1,1066168%"/>
+  <land nummer="19" naam="Peru" oppervlakte="1285216" verhouding="0,8629086%"/>
+  <land nummer="20" naam="Chad" oppervlakte="1284000" verhouding="0,8620921%"/>
+  <land nummer="21" naam="Niger" oppervlakte="1267000" verhouding="0,8506781%"/>
+  <land nummer="22" naam="Angola" oppervlakte="1246700" verhouding="0,8370485%"/>
+  <land nummer="23" naam="Mali" oppervlakte="1240192" verhouding="0,8326789%"/>
+  <land nummer="24" naam="Tibet" oppervlakte="1228400" verhouding="0,8247616%"/>
+  <land nummer="25" naam="South Africa" oppervlakte="1221037" verhouding="0,8198180%"/>
+  <land nummer="26" naam="Colombia" oppervlakte="1138914" verhouding="0,7646797%"/>
+  <land nummer="27" naam="Ethiopia" oppervlakte="1104300" verhouding="0,7414395%"/>
+  <land nummer="28" naam="Bolivia" oppervlakte="1098581" verhouding="0,7375997%"/>
+  <land nummer="29" naam="Mauritania" oppervlakte="1030000" verhouding="0,6915536%"/>
+  <land nummer="30" naam="Egypt" oppervlakte="1002000" verhouding="0,6727541%"/>
+  <land nummer="31" naam="Tanzania" oppervlakte="945087" verhouding="0,6345421%"/>
+  <land nummer="32" naam="Nigeria" oppervlakte="923768" verhouding="0,6202283%"/>
+  <land nummer="33" naam="Venezuela" oppervlakte="912050" verhouding="0,6123607%"/>
+  <land nummer="34" naam="Namibia" oppervlakte="824292" verhouding="0,5534390%"/>
+  <land nummer="35" naam="Mozambique" oppervlakte="801590" verhouding="0,5381966%"/>
+  <land nummer="36" naam="Pakistan" oppervlakte="796095" verhouding="0,5345072%"/>
+  <land nummer="37" naam="Turkey" oppervlakte="783562" verhouding="0,5260924%"/>
+  <land nummer="38" naam="Chile" oppervlakte="756102" verhouding="0,5076554%"/>
+  <land nummer="39" naam="Zambia" oppervlakte="752618" verhouding="0,5053162%"/>
+  <land nummer="40" naam="Myanmar" oppervlakte="676578" verhouding="0,4542621%"/>
+  <land nummer="41" naam="Afghanistan" oppervlakte="652090" verhouding="0,4378206%"/>
+  <land nummer="42" naam="Somalia" oppervlakte="637657" verhouding="0,4281301%"/>
+  <land nummer="43" naam="Central African Republic" oppervlakte="622984" verhouding="0,4182785%"/>
+  <land nummer="44" naam="Ukraine" oppervlakte="603500" verhouding="0,4051967%"/>
+  <land nummer="45" naam="Madagascar" oppervlakte="587041" verhouding="0,3941460%"/>
+  <land nummer="46" naam="Botswana" oppervlakte="582000" verhouding="0,3907614%"/>
+  <land nummer="47" naam="Kenya" oppervlakte="580000" verhouding="0,3894186%"/>
+  <land nummer="48" naam="France" oppervlakte="551500" verhouding="0,3702833%"/>
+  <land nummer="49" naam="Yemen" oppervlakte="527968" verhouding="0,3544837%"/>
+  <land nummer="50" naam="Thailand" oppervlakte="513120" verhouding="0,3445146%"/>
+  <land nummer="51" naam="Spain" oppervlakte="505992" verhouding="0,3397287%"/>
+  <land nummer="52" naam="Turkmenistan" oppervlakte="488100" verhouding="0,3277159%"/>
+  <land nummer="53" naam="Cameroon" oppervlakte="475650" verhouding="0,3193568%"/>
+  <land nummer="54" naam="Papua New Guinea" oppervlakte="462840" verhouding="0,3107560%"/>
+  <land nummer="55" naam="Sweden" oppervlakte="450295" verhouding="0,3023332%"/>
+  <land nummer="56" naam="Uzbekistan" oppervlakte="447400" verhouding="0,3003894%"/>
+  <land nummer="57" naam="Morocco" oppervlakte="446550" verhouding="0,2998187%"/>
+  <land nummer="58" naam="Iraq" oppervlakte="438317" verhouding="0,2942910%"/>
+  <land nummer="59" naam="Paraguay" oppervlakte="406752" verhouding="0,2730979%"/>
+  <land nummer="60" naam="Zimbabwe" oppervlakte="390757" verhouding="0,2623587%"/>
+  <land nummer="61" naam="Japan" oppervlakte="377915" verhouding="0,2537364%"/>
+  <land nummer="62" naam="Germany" oppervlakte="357375" verhouding="0,2399456%"/>
+  <land nummer="63" naam="Brazzaville" oppervlakte="342000" verhouding="0,2296227%"/>
+  <land nummer="64" naam="Finland" oppervlakte="338145" verhouding="0,2270344%"/>
+  <land nummer="65" naam="Vietnam" oppervlakte="331689" verhouding="0,2226997%"/>
+  <land nummer="66" naam="Malaysia" oppervlakte="329847" verhouding="0,2214630%"/>
+  <land nummer="67" naam="Norway" oppervlakte="323802" verhouding="0,2174043%"/>
+  <land nummer="68" naam="Côte d'Ivoire" oppervlakte="322463" verhouding="0,2165053%"/>
+  <land nummer="69" naam="Poland" oppervlakte="312685" verhouding="0,2099402%"/>
+  <land nummer="70" naam="Oman" oppervlakte="309500" verhouding="0,2078018%"/>
+  <land nummer="71" naam="Italy" oppervlakte="301318" verhouding="0,2023083%"/>
+  <land nummer="72" naam="Philippines" oppervlakte="300000" verhouding="0,2014234%"/>
+  <land nummer="73" naam="Ecuador" oppervlakte="283561" verhouding="0,1903861%"/>
+  <land nummer="74" naam="Burkina Faso" oppervlakte="274222" verhouding="0,1841158%"/>
+  <land nummer="75" naam="New Zealand" oppervlakte="270467" verhouding="0,1815946%"/>
+  <land nummer="76" naam="Gabon" oppervlakte="267668" verhouding="0,1797153%"/>
+  <land nummer="77" naam="Western Sahara" oppervlakte="266000" verhouding="0,1785954%"/>
+  <land nummer="78" naam="Guinea" oppervlakte="245857" verhouding="0,1650712%"/>
+  <land nummer="79" naam="United Kingdom" oppervlakte="242900" verhouding="0,1630858%"/>
+  <land nummer="80" naam="Uganda" oppervlakte="241551" verhouding="0,1621801%"/>
+  <land nummer="81" naam="Ghana" oppervlakte="238533" verhouding="0,1601538%"/>
+  <land nummer="82" naam="Romania" oppervlakte="238391" verhouding="0,1600584%"/>
+  <land nummer="83" naam="Lao PDR" oppervlakte="236800" verhouding="0,1589902%"/>
+  <land nummer="84" naam="Guyana" oppervlakte="214969" verhouding="0,1443326%"/>
+  <land nummer="85" naam="Belarus" oppervlakte="207595" verhouding="0,1393816%"/>
+  <land nummer="86" naam="Kyrgyzstan" oppervlakte="199951" verhouding="0,1342494%"/>
+  <land nummer="87" naam="Senegal" oppervlakte="196722" verhouding="0,1320814%"/>
+  <land nummer="88" naam="Syria" oppervlakte="185180" verhouding="0,1243319%"/>
+  <land nummer="89" naam="Cambodia" oppervlakte="181035" verhouding="0,1215489%"/>
+  <land nummer="90" naam="Uruguay" oppervlakte="176215" verhouding="0,1183127%"/>
+  <land nummer="91" naam="Suriname" oppervlakte="163820" verhouding="0,1099906%"/>
+  <land nummer="92" naam="Tunisia" oppervlakte="163610" verhouding="0,1098496%"/>
+  <land nummer="93" naam="Nepal" oppervlakte="147181" verhouding="0,0988190%"/>
+  <land nummer="94" naam="Bangladesh" oppervlakte="143998" verhouding="0,0966819%"/>
+  <land nummer="95" naam="Tajikistan" oppervlakte="143100" verhouding="0,0960790%"/>
+  <land nummer="96" naam="Greece" oppervlakte="131957" verhouding="0,0885974%"/>
+  <land nummer="97" naam="Nicaragua" oppervlakte="130370" verhouding="0,0875319%"/>
+  <land nummer="98" naam="North Korea" oppervlakte="120538" verhouding="0,0809306%"/>
+  <land nummer="99" naam="Malawi" oppervlakte="118484" verhouding="0,0795515%"/>
+  <land nummer="100" naam="Eritrea" oppervlakte="117600" verhouding="0,0789580%"/>
+  <land nummer="101" naam="Benin" oppervlakte="112622" verhouding="0,0756157%"/>
+  <land nummer="102" naam="Honduras" oppervlakte="112492" verhouding="0,0755284%"/>
+  <land nummer="103" naam="Liberia" oppervlakte="111369" verhouding="0,0747744%"/>
+  <land nummer="104" naam="Bulgaria" oppervlakte="110879" verhouding="0,0744454%"/>
+  <land nummer="105" naam="Cuba" oppervlakte="109884" verhouding="0,0737774%"/>
+  <land nummer="106" naam="Guatemala" oppervlakte="108889" verhouding="0,0731093%"/>
+  <land nummer="107" naam="Iceland" oppervlakte="103000" verhouding="0,0691554%"/>
+  <land nummer="108" naam="South Korea" oppervlakte="99678" verhouding="0,0669249%"/>
+  <land nummer="109" naam="Hungary" oppervlakte="93028" verhouding="0,0624601%"/>
+  <land nummer="110" naam="Portugal" oppervlakte="92090" verhouding="0,0618303%"/>
+  <land nummer="111" naam="Jordan" oppervlakte="89342" verhouding="0,0599852%"/>
+  <land nummer="112" naam="Azerbaijan" oppervlakte="86600" verhouding="0,0581442%"/>
+  <land nummer="113" naam="French Guiana" oppervlakte="83534" verhouding="0,0560857%"/>
+  <land nummer="114" naam="Austria" oppervlakte="83871" verhouding="0,0563119%"/>
+  <land nummer="115" naam="United Arab Emirates" oppervlakte="83600" verhouding="0,0561300%"/>
+  <land nummer="116" naam="Czech Republic" oppervlakte="78867" verhouding="0,0529522%"/>
+  <land nummer="117" naam="Serbia" oppervlakte="77474" verhouding="0,0520169%"/>
+  <land nummer="118" naam="Panama" oppervlakte="74177" verhouding="0,0498033%"/>
+  <land nummer="119" naam="Sierra Leone" oppervlakte="71740" verhouding="0,0481670%"/>
+  <land nummer="120" naam="Ireland (Republic of)" oppervlakte="70273" verhouding="0,0471821%"/>
+  <land nummer="121" naam="Georgia" oppervlakte="69700" verhouding="0,0467974%"/>
+  <land nummer="122" naam="Sri Lanka" oppervlakte="65610" verhouding="0,0440513%"/>
+  <land nummer="123" naam="Lithuania" oppervlakte="65300" verhouding="0,0438432%"/>
+  <land nummer="124" naam="Latvia" oppervlakte="64589" verhouding="0,0433658%"/>
+  <land nummer="125" naam="Svalbard and Jan Mayen" oppervlakte="62422" verhouding="0,0419108%"/>
+  <land nummer="126" naam="Togo" oppervlakte="56785" verhouding="0,0381261%"/>
+  <land nummer="127" naam="Croatia" oppervlakte="56594" verhouding="0,0379979%"/>
+  <land nummer="128" naam="Bosnia and Herzegovina" oppervlakte="51197" verhouding="0,0343742%"/>
+  <land nummer="129" naam="Costa Rica" oppervlakte="51100" verhouding="0,0343091%"/>
+  <land nummer="130" naam="Slovakia" oppervlakte="49035" verhouding="0,0329227%"/>
+  <land nummer="131" naam="Dominican Republic" oppervlakte="48310" verhouding="0,0324359%"/>
+  <land nummer="132" naam="Estonia" oppervlakte="45227" verhouding="0,0303659%"/>
+  <land nummer="133" naam="Denmark" oppervlakte="42916" verhouding="0,0288143%"/>
+  <land nummer="134" naam="Netherlands" oppervlakte="41543" verhouding="0,0278924%"/>
+  <land nummer="135" naam="Switzerland" oppervlakte="41285" verhouding="0,0277192%"/>
+  <land nummer="136" naam="Bhutan" oppervlakte="38394" verhouding="0,0257782%"/>
+  <land nummer="137" naam="Taiwan (Republic of China)" oppervlakte="36188" verhouding="0,0242970%"/>
+  <land nummer="138" naam="Guinea-Bissau" oppervlakte="36125" verhouding="0,0242547%"/>
+  <land nummer="139" naam="Moldova" oppervlakte="33850" verhouding="0,0227273%"/>
+  <land nummer="140" naam="Belgium" oppervlakte="30528" verhouding="0,0204968%"/>
+  <land nummer="141" naam="Lesotho" oppervlakte="30355" verhouding="0,0203807%"/>
+  <land nummer="142" naam="Armenia" oppervlakte="29743" verhouding="0,0199698%"/>
+  <land nummer="143" naam="Solomon Islands" oppervlakte="28896" verhouding="0,0194011%"/>
+  <land nummer="144" naam="Albania" oppervlakte="28748" verhouding="0,0193017%"/>
+  <land nummer="145" naam="Equatorial Guinea" oppervlakte="28051" verhouding="0,0188338%"/>
+  <land nummer="146" naam="Burundi" oppervlakte="27834" verhouding="0,0186881%"/>
+  <land nummer="147" naam="Haiti" oppervlakte="27750" verhouding="0,0186317%"/>
+  <land nummer="148" naam="Rwanda" oppervlakte="26338" verhouding="0,0176836%"/>
+  <land nummer="149" naam="Macedonia Rep. of" oppervlakte="25713" verhouding="0,0172640%"/>
+  <land nummer="150" naam="Djibouti" oppervlakte="23200" verhouding="0,0155767%"/>
+  <land nummer="151" naam="Belize" oppervlakte="22966" verhouding="0,0154196%"/>
+  <land nummer="152" naam="Israel" oppervlakte="22072" verhouding="0,0148194%"/>
+  <land nummer="153" naam="El Salvador" oppervlakte="21041" verhouding="0,0141272%"/>
+  <land nummer="154" naam="Slovenia" oppervlakte="20273" verhouding="0,0136115%"/>
+  <land nummer="155" naam="New Caledonia" oppervlakte="18575" verhouding="0,0124715%"/>
+  <land nummer="156" naam="Fiji" oppervlakte="18274" verhouding="0,0122694%"/>
+  <land nummer="157" naam="Kuwait" oppervlakte="17818" verhouding="0,0119632%"/>
+  <land nummer="158" naam="Swaziland" oppervlakte="17364" verhouding="0,0116584%"/>
+  <land nummer="159" naam="East Timor" oppervlakte="14874" verhouding="0,0099866%"/>
+  <land nummer="160" naam="The Bahamas" oppervlakte="13943" verhouding="0,0093615%"/>
+  <land nummer="161" naam="Montenegro" oppervlakte="13812" verhouding="0,0092735%"/>
+  <land nummer="162" naam="Vanuatu" oppervlakte="12189" verhouding="0,0081838%"/>
+  <land nummer="163" naam="Falkland Islands" oppervlakte="12173" verhouding="0,0081731%"/>
+  <land nummer="164" naam="Qatar" oppervlakte="11586" verhouding="0,0077790%"/>
+  <land nummer="165" naam="The Gambia" oppervlakte="11295" verhouding="0,0075836%"/>
+  <land nummer="166" naam="Jamaica" oppervlakte="10991" verhouding="0,0073795%"/>
+  <land nummer="167" naam="Kosovo" oppervlakte="10887" verhouding="0,0073097%"/>
+  <land nummer="168" naam="Lebanon" oppervlakte="10400" verhouding="0,0069827%"/>
+  <land nummer="169" naam="Cyprus" oppervlakte="9251" verhouding="0,0062112%"/>
+  <land nummer="170" naam="Puerto Rico" oppervlakte="8870" verhouding="0,0059554%"/>
+  <land nummer="171" naam="Palestinian territories" oppervlakte="6020" verhouding="0,0040419%"/>
+  <land nummer="172" naam="Brunei Darussalam" oppervlakte="5765" verhouding="0,0038707%"/>
+  <land nummer="173" naam="Trinidad and Tobago" oppervlakte="5130" verhouding="0,0034443%"/>
+  <land nummer="174" naam="French Polynesia" oppervlakte="4167" verhouding="0,0027978%"/>
+  <land nummer="175" naam="Cape Verde" oppervlakte="4033" verhouding="0,0027078%"/>
+  <land nummer="176" naam="Samoa" oppervlakte="2831" verhouding="0,0019008%"/>
+  <land nummer="177" naam="Luxembourg" oppervlakte="2586" verhouding="0,0017363%"/>
+  <land nummer="178" naam="Réunion" oppervlakte="2510" verhouding="0,0016852%"/>
+  <land nummer="179" naam="Comoros" oppervlakte="2235" verhouding="0,0015006%"/>
+  <land nummer="180" naam="Mauritius" oppervlakte="2040" verhouding="0,0013697%"/>
+  <land nummer="181" naam="Guadeloupe" oppervlakte="1630" verhouding="0,0010944%"/>
+  <land nummer="182" naam="Faroe Islands" oppervlakte="1393" verhouding="0,0009353%"/>
+  <land nummer="183" naam="Martinique" oppervlakte="1100" verhouding="0,0007386%"/>
+  <land nummer="184" naam="Netherlands Antilles" oppervlakte="999" verhouding="0,0006707%"/>
+  <land nummer="185" naam="São Tomé and Príncipe" oppervlakte="964" verhouding="0,0006472%"/>
+  <land nummer="186" naam="Turks and Caicos Islands" oppervlakte="948" verhouding="0,0006365%"/>
+  <land nummer="187" naam="Dominica" oppervlakte="751" verhouding="0,0005042%"/>
+  <land nummer="188" naam="Tonga" oppervlakte="747" verhouding="0,0005015%"/>
+  <land nummer="189" naam="Bahrain" oppervlakte="741" verhouding="0,0004975%"/>
+  <land nummer="190" naam="Kiribati" oppervlakte="726" verhouding="0,0004874%"/>
+  <land nummer="191" naam="Singapore" oppervlakte="718" verhouding="0,0004821%"/>
+  <land nummer="192" naam="Micronesia Federated States of" oppervlakte="702" verhouding="0,0004713%"/>
+  <land nummer="193" naam="Isle of Man" oppervlakte="572" verhouding="0,0003840%"/>
+  <land nummer="194" naam="Guam" oppervlakte="549" verhouding="0,0003686%"/>
+  <land nummer="195" naam="Saint Lucia" oppervlakte="539" verhouding="0,0003619%"/>
+  <land nummer="196" naam="Palau" oppervlakte="490" verhouding="0,0003290%"/>
+  <land nummer="197" naam="Northern Mariana Islands" oppervlakte="477" verhouding="0,0003203%"/>
+  <land nummer="198" naam="Andorra" oppervlakte="468" verhouding="0,0003142%"/>
+  <land nummer="199" naam="Seychelles" oppervlakte="455" verhouding="0,0003055%"/>
+  <land nummer="200" naam="Antigua and Barbuda" oppervlakte="442" verhouding="0,0002968%"/>
+  <land nummer="201" naam="Barbados" oppervlakte="431" verhouding="0,0002894%"/>
+  <land nummer="202" naam="Saint Vincent and the Grenadines" oppervlakte="389" verhouding="0,0002612%"/>
+  <land nummer="203" naam="Virgin Islands U.S." oppervlakte="347" verhouding="0,0002330%"/>
+  <land nummer="204" naam="Grenada" oppervlakte="344" verhouding="0,0002310%"/>
+  <land nummer="205" naam="Malta" oppervlakte="316" verhouding="0,0002122%"/>
+  <land nummer="206" naam="Maldives" oppervlakte="298" verhouding="0,0002001%"/>
+  <land nummer="207" naam="Cayman Islands" oppervlakte="264" verhouding="0,0001773%"/>
+  <land nummer="208" naam="Saint Kitts and Nevis" oppervlakte="261" verhouding="0,0001752%"/>
+  <land nummer="209" naam="Niue" oppervlakte="260" verhouding="0,0001746%"/>
+  <land nummer="210" naam="Saint Pierre and Miquelon" oppervlakte="242" verhouding="0,0001625%"/>
+  <land nummer="211" naam="Cook Islands" oppervlakte="236" verhouding="0,0001585%"/>
+  <land nummer="212" naam="American Samoa" oppervlakte="199" verhouding="0,0001336%"/>
+  <land nummer="213" naam="Marshall Islands" oppervlakte="181" verhouding="0,0001215%"/>
+  <land nummer="214" naam="Aruba" oppervlakte="180" verhouding="0,0001209%"/>
+  <land nummer="215" naam="Liechtenstein" oppervlakte="160" verhouding="0,0001074%"/>
+  <land nummer="216" naam="British Virgin Islands" oppervlakte="151" verhouding="0,0001014%"/>
+  <land nummer="217" naam="Wallis and Futuna" oppervlakte="142" verhouding="0,0000953%"/>
+  <land nummer="218" naam="Saint Helena" oppervlakte="122" verhouding="0,0000819%"/>
+  <land nummer="219" naam="Jersey" oppervlakte="116" verhouding="0,0000779%"/>
+  <land nummer="220" naam="Montserrat" oppervlakte="102" verhouding="0,0000685%"/>
+  <land nummer="221" naam="Tristan da Cunha" oppervlakte="98" verhouding="0,0000658%"/>
+  <land nummer="222" naam="Anguilla" oppervlakte="91" verhouding="0,0000611%"/>
+  <land nummer="223" naam="Ascension Island" oppervlakte="88" verhouding="0,0000591%"/>
+  <land nummer="224" naam="Guernsey" oppervlakte="78" verhouding="0,0000524%"/>
+  <land nummer="225" naam="San Marino" oppervlakte="61" verhouding="0,0000410%"/>
+  <land nummer="226" naam="Bermuda" oppervlakte="53" verhouding="0,0000356%"/>
+  <land nummer="227" naam="Norfolk Island" oppervlakte="36" verhouding="0,0000242%"/>
+  <land nummer="228" naam="Tuvalu" oppervlakte="26" verhouding="0,0000175%"/>
+  <land nummer="229" naam="Nauru" oppervlakte="21" verhouding="0,0000141%"/>
+  <land nummer="230" naam="Tokelau" oppervlakte="12" verhouding="0,0000081%"/>
+  <land nummer="231" naam="Gibraltar" oppervlakte="6" verhouding="0,0000040%"/>
+  <land nummer="232" naam="Pitcairn Islands" oppervlakte="5" verhouding="0,0000034%"/>
+  <land nummer="233" naam="Monaco" oppervlakte="1,95" verhouding="0,0000013%"/>
+  <land nummer="234" naam="Vatican City" oppervlakte="0,44" verhouding="0,0000003%"/>
+</landen>

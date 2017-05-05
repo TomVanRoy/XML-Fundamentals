@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema"
+        xmlns:vdab="http://www.vdab.be/festival"
+        targetNamespace="http://www.vdab.be/festival"
+        elementFormDefault="qualified">
+  <simpleType name="Begin">
+    <restriction base="time">
+      <minInclusive value="12:00:00"/>
+    </restriction>
+  </simpleType>
+  <simpleType name="Datum">
+    <restriction base="date">
+      <minInclusive value="2016-07-08" />
+      <maxInclusive value="2016-07-09" />
+    </restriction>
+  </simpleType>
+
+  <complexType name="Optreden">
+    <attribute name="begin" use="required" type="vdab:Begin" />
+    <attribute name="einde" use="required" type="time" />
+    <attribute name="artiest" use="required" />
+  </complexType>
+  <complexType name="Dag">
+    <sequence>
+      <element name="optreden" maxOccurs="unbounded" type="vdab:Optreden" />
+    </sequence>
+    <attribute name="datum" use="required" type="vdab:Datum" />
+  </complexType>
+  <complexType name="Festival">
+    <sequence>
+      <element name="dag" maxOccurs="unbounded" type="vdab:Dag"/>
+    </sequence>
+  </complexType>
+
+  <element name="festival" type="vdab:Festival">
+    <key name="dagKey">
+      <selector xpath="vdab:dag" />
+      <field xpath="@datum" />
+    </key>
+  </element>
+</schema>
