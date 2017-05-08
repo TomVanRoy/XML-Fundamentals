@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema"
+        xmlns:vdab="http://www.vdab.be/reisbestemming"
+        targetNamespace="http://www.vdab.be/reisbestemming"
+        elementFormDefault="qualified">
+  <complexType name="Akteurs">
+    <sequence>
+      <element name="akteur" maxOccurs="unbounded" />
+    </sequence>
+  </complexType>
+  <complexType name="Genres">
+    <sequence>
+      <element name="genre" maxOccurs="unbounded" />
+    </sequence>
+  </complexType>
+  <complexType name="Film">
+    <sequence>
+      <element name="titel" />
+      <element name="genres" type="vdab:Genres" />
+      <element name="duurtijd" type="positiveInteger" />
+      <element name="regisseur" />
+      <element name="akteurs" type="vdab:Akteurs" />
+    </sequence>
+  </complexType>
+  <element name="film" type="vdab:Film" />
+</schema>

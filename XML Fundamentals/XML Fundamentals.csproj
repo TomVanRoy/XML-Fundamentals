@@ -51,6 +51,9 @@
     <None Include="XML Fundamentals Taken Materiaal\Bieren.xsd">
       <SubType>Designer</SubType>
     </None>
+    <None Include="XML Fundamentals Taken Materiaal\Bioschoopfilm.xsd">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="XML Fundamentals Taken Materiaal\Muziekfestival.xsd">
       <SubType>Designer</SubType>
     </None>
@@ -98,6 +101,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="XML Fundamentals Taken Materiaal\Bieren.xml" />
+    <Content Include="XML Fundamentals Taken Materiaal\Bioschoopfilm.xml" />
     <Content Include="XML Fundamentals Taken Materiaal\CDVerzameling.xml" />
     <Content Include="XML Fundamentals Taken Materiaal\ComputerTalen.xml">
       <SubType>Designer</SubType>
