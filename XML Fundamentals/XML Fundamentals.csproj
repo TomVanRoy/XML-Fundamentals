@@ -54,6 +54,9 @@
     <None Include="XML Fundamentals Taken Materiaal\Bioschoopfilm.xsd">
       <SubType>Designer</SubType>
     </None>
+    <None Include="XML Fundamentals Taken Materiaal\Cursisten.xsd">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="XML Fundamentals Taken Materiaal\Muziekfestival.xsd">
       <SubType>Designer</SubType>
     </None>
@@ -106,6 +109,7 @@
     <Content Include="XML Fundamentals Taken Materiaal\ComputerTalen.xml">
       <SubType>Designer</SubType>
     </Content>
+    <Content Include="XML Fundamentals Taken Materiaal\Cursisten.xml" />
     <Content Include="XML Fundamentals Taken Materiaal\Daltons.xml" />
     <Content Include="XML Fundamentals Taken Materiaal\DeclarationEnCommentaar.xml" />
     <Content Include="XML Fundamentals Taken Materiaal\GesprokenTalen.xml">
